@@ -105,7 +105,7 @@ def get_hotkey_id_from_name(name):
         'AUTO_HITTING': actions.HK_TOGGLE_CLICK,
         'AUTO_SKILL_ATTACK': actions.HK_TOGGLE_SKILL_ATTACK,  # Updated
         'AUTO_JUMP': actions.HK_TOGGLE_COMBINED_ACTION,
-        'AUTO_MOVE': actions.HK_TOGGLE_AUTO_MOVE,  # W + S
+        'AUTO_MOVE': actions.HK_TOGGLE_AUTO_MOVE,  # S
         'AUTO_MOVE2': actions.HK_TOGGLE_AUTO_MOVE2,  # A + D
         'AUTO_RESSER': actions.HK_TOGGLE_AUTO_RESSER,
         'AUTO_UNPACK': actions.HK_TOGGLE_AUTO_UNPACK,
